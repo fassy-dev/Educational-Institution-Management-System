@@ -33,7 +33,7 @@ Educational-Institution-Management-System/
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/fassy-dev/Educational-Institution-Management-System
    cd Educational-Institution-Management-System
    ```
 
